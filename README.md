@@ -6,6 +6,9 @@ https://huggingface.co/spaces/AbdallahAhmed98/BrainTumorClassification
 ### MLflow repo
 https://dagshub.com/Abdallah-Ahmed-98/Brain-Tumor-Classification
 
+### MLflow UI
+https://dagshub.com/Abdallah-Ahmed-98/Brain-Tumor-Classification.mlflow
+
 ## Create and activate venv.
 
 ```bash
