@@ -10,6 +10,8 @@ https://dagshub.com/Abdallah-Ahmed-98/Brain-Tumor-Classification.mlflow
 
 ```bash
 conda create -n BTCls python=3.10 -y
+```
+```bash
 conda activate BTCls
 ```
 
