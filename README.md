@@ -9,7 +9,7 @@ https://dagshub.com/Abdallah-Ahmed-98/Brain-Tumor-Classification
 ### MLflow UI
 https://dagshub.com/Abdallah-Ahmed-98/Brain-Tumor-Classification.mlflow
 
-## Create and activate venv.
+## Create and activate virtual environment
 
 ```bash
 conda create -n BTCls python=3.10 -y
